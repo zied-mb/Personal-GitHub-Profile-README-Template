@@ -21,9 +21,11 @@
 
 ## 🧑‍💻 **About Me**  
 🔭 **I’m currently**: [Your Role]  
+👯 **I’m looking to collaborate on** [Your Role]
 🌱 **Learning**: [Your Interests]  
 💬 **Ask me about**: [Topics You Can Help With]  
-📝 **I regularly write articles on** [Your Blog URL]  
+📝 **I regularly write articles on** [Your Blog URL] 
+👨‍💻 **All of my projects are available at** [Your Projects URL] 
 📫 **Reach me**: [Your Email]  
 ⚡ **Fun fact**: [Your Fun Fact]  
 
@@ -46,12 +48,12 @@
 
 ## 🚀 **Featured Projects**
 
-### 🌍 [Project Name](#)  
+### [Project Name](#)  
 > Description of the project.  
 > ![Stars](https://img.shields.io/github/stars/your-username/project-name?style=social)  
 > ![Issues](https://img.shields.io/github/issues/your-username/project-name?style=flat)  
 
-### 🍔 [Project Name](#)  
+### [Project Name](#)  
 > Description of the project.  
 > ![Contributors](https://img.shields.io/github/contributors/your-username/project-name?style=flat)  
 > ![Issues](https://img.shields.io/github/issues/your-username/project-name?style=flat)  
