@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">[Your Tagline]</h3>
 
-<h5 align="center">Social Media:</h5>
+<h5 align="center">Social Media:</h5>      <!-- You can add other Social Media -->
 
 <p align="center">
 <a href="https://linkedin.com/in/[YourUsername]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -44,7 +44,9 @@
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ **Tech Stack**   
+
+<!--  You can add Other skills -->
 
 ### **Frontend**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
