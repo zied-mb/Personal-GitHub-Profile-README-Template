@@ -42,8 +42,8 @@
 👯 **I’m looking to collaborate on** [Your Role]
 🌱 **Learning**: [Your Interests]  
 💬 **Ask me about**: [Topics You Can Help With]  
-📝 **I regularly write articles on** [Your Blog URL] 
-👨‍💻 **All of my projects are available at** [Your Projects URL] 
+📝 **I regularly write articles on** [Your Blog URL]  
+👨‍💻 **All of my projects are available at** [Your Projects URL]  
 📫 **Reach me**: [Your Email]  
 ⚡ **Fun fact**: [Your Fun Fact]  
 
